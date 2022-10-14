@@ -5,3 +5,9 @@ body {
   background-position: 100% 0;
 }
 
+img {
+  max-width: 100%;
+}
+.volkhov {
+  font-family: 'Volkhov', serif;
+}
